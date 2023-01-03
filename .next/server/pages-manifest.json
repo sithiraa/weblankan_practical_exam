@@ -2,5 +2,10 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/account/login": "pages/account/login.js"
+  "/": "pages/index.js",
+  "/users": "pages/users.js",
+  "/api/users/[id]": "pages/api/users/[id].js",
+  "/api/users": "pages/api/users.js",
+  "/users/add": "pages/users/add.js",
+  "/api/users/register": "pages/api/users/register.js"
 }
